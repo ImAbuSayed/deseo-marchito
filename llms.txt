@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Deseo marchito |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-marchito/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Deseo marchito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-marchito/) |
+| **Get License** | [Music Rights & Licensing for Deseo marchito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-marchito/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -44,7 +44,7 @@
 
 ## 🔗 Song Links
 
-- [Telegram](https://t.me/AbuSayedMusic/3678)
+- [Telegram](https://t.me/AbuSayedMusic/3680)
 
 ---
 
