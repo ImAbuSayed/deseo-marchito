@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Deseo ma
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-19T21:59:20.247048 | `v1` | `f2397fbf53a72086ad2a913523a67236df79713303e86858ad17197b7cdf2a06` | `1d5fc2a10855966a3f114ebf14b250609e43e97825bd56126ac16a6ae7b02c13` | `2026-06-19_deseo-marchito-v1.txt` |
+| 2026-06-19T22:00:59.880661 | `v2` | `f013c27295ef68f6a30128caf999e01c043d17247273def2d6c93c9e714995f0` | `790112ea85d990aeb7a2a0c5a456d9675a12ddf6f90845ad4bd263ed67389005` | `2026-06-19_deseo-marchito-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
