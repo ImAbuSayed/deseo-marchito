@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deseo-marchito/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deseo marchito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-marchito/) |
+| **Get License** | [Request Licensing for Deseo marchito](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deseo-marchito/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si tú sientes lo que yo siento ahora
+> Cuando la noche enciende lo que el día ignora
+> Tu piel es el mapa que yo quiero explorar
+> Y este deseo marchito vuelve a florecer, sin control
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
